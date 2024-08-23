@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctorupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctorupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctorupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctorupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctorupdateinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctorupdateinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctordetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmdoctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmdoctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmpatientdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmpatientdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|d:\\c#_ogrenme_murat\\hospital management and  appointment system\\hospital management and  appointment system\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{457ADA67-66B0-462E-9C3D-B79CC06A4934}|Hospital Management and  Appointment System\\Hospital Management and  Appointment System.csproj|solutionrelative:hospital management and  appointment system\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDoctorDetail.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAhwEQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:30:31.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDoctorUpdateInfo.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs [Design]",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:37:01.243Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDoctorUpdateInfo.Designer.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.Designer.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.Designer.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAwwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:38:56.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDoctorUpdateInfo.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorUpdateInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:37:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDoctorDetail.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorDetail.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorDetail.cs [Design]",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:30:29.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDoctorLogin.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:26:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDoctorLogin.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmDoctorLogin.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmDoctorLogin.cs [Design]",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmDoctorLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:26:15.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPatientDetail.Designer.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmPatientDetail.Designer.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.Designer.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmPatientDetail.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAIAwwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:11:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPatientDetail.cs",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAhwE8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:58:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPatientDetail.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "RelativeDocumentMoniker": "Hospital Management and  Appointment System\\frmPatientDetail.cs",
+              "ToolTip": "D:\\C#_Ogrenme_Murat\\Hospital Management and  Appointment System\\Hospital Management and  Appointment System\\frmPatientDetail.cs [Design]",
+              "RelativeToolTip": "Hospital Management and  Appointment System\\frmPatientDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:58:03.98Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

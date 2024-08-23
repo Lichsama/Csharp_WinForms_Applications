@@ -1,0 +1,13 @@
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.exe.config
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.exe
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.pdb
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.AssemblyReference.cache
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.Properties.Resources.resources
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.GenerateResource.cache
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.CoreCompileInputs.cache
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.exe
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.pdb
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.Frmist.resources
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.frmAna.resources
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.frmgrafik.resources
+D:\C#_Ogrenme_Murat\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.frmgiris.resources

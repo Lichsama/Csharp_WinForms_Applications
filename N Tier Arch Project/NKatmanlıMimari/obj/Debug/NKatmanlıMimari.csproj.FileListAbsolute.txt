@@ -1,0 +1,17 @@
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.AssemblyReference.cache
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Form1.resources
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Properties.Resources.resources
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.GenerateResource.cache
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.CoreCompileInputs.cache
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe.config
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.pdb
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\EntityLayer.dll
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\LogicLayer.dll
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\EntityLayer.pdb
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\LogicLayer.pdb
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanl.E6682D07.Up2Date
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.exe
+C:\Users\Blacklions Family\Documents\GitHub\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.pdb

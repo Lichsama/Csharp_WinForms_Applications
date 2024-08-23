@@ -1,0 +1,23 @@
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\bin\Debug\Hospital Management and  Appointment System.exe.config
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\bin\Debug\Hospital Management and  Appointment System.exe
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\bin\Debug\Hospital Management and  Appointment System.pdb
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital Management and  Appointment System.csproj.AssemblyReference.cache
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.Properties.Resources.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital Management and  Appointment System.csproj.GenerateResource.cache
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital Management and  Appointment System.csproj.CoreCompileInputs.cache
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital Management and  Appointment System.exe
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital Management and  Appointment System.pdb
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmAnno.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmDoctorDetail.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmDoctorLogin.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmDoctorUpdateInfo.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmLogins.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmPatientDetail.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmPatientLogin.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmPatientRegister.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmPatientUpdateInfo.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmAppList.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmSecBranchPanel.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmSecDoctorPanel.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmSecretaryDetail.resources
+D:\C#_Ogrenme_Murat\Hospital Management and  Appointment System\Hospital Management and  Appointment System\obj\Debug\Hospital_Management_and__Appointment_System.frmSecretaryLogin.resources

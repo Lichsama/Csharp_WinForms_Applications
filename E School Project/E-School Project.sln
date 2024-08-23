@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-School Project", "E-School Project\E-School Project.csproj", "{C1E0C69A-7631-49AE-8F2E-733351AF0B3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "E-school", "Setup1\Setup1.vdproj", "{4EE846E2-7611-4F12-BAF7-345F272A68C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E0C69A-7631-49AE-8F2E-733351AF0B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E0C69A-7631-49AE-8F2E-733351AF0B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E0C69A-7631-49AE-8F2E-733351AF0B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E0C69A-7631-49AE-8F2E-733351AF0B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE846E2-7611-4F12-BAF7-345F272A68C2}.Debug|Any CPU.ActiveCfg = Debug
+		{4EE846E2-7611-4F12-BAF7-345F272A68C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE1FF56-DB10-4E75-8766-2A0534B2ECBD}
+	EndGlobalSection
+EndGlobal

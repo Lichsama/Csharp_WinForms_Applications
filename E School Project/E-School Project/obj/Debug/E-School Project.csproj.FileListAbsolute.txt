@@ -1,0 +1,16 @@
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\bin\Debug\E-School Project.exe.config
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\bin\Debug\E-School Project.exe
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\bin\Debug\E-School Project.pdb
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E-School Project.csproj.AssemblyReference.cache
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.Properties.Resources.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E-School Project.csproj.GenerateResource.cache
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E-School Project.csproj.CoreCompileInputs.cache
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E-School Project.exe
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E-School Project.pdb
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.frmgiris.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.frmogrnotlar.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.frmogretmen.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.kuluppanel.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.derspanel.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.frmogrenci.resources
+D:\C#_Ogrenme_Murat\E-School Project\E-School Project\obj\Debug\E_School_Project.frmsinavnotlar.resources
